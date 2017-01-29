@@ -6,6 +6,6 @@ console.log(styles);
 module.exports = function(){
 	var hello = document.createElement('div');
 	hello.setAttribute("class",styles.root);
-	hello.textContent = "Hello222222 "+data.name;
+	hello.textContent = "Hello22222222 "+data.name;
 	return hello;
 }
